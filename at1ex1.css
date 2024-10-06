@@ -1,0 +1,38 @@
+h1 {
+    color: white;
+    background-color: #008080;
+    text-align: left;
+    padding-left: 50px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+table {
+    text-align: left;
+    margin: 0 auto;
+    width: 100%;
+}
+
+td {
+    padding: 10px;
+}
+
+input[type="submit"] {
+    background-color: #008080;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}
+
+input[type="submit"]:hover {
+    background-color: #006666;
+}
+
+.hhh {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
