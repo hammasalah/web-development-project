@@ -8,16 +8,16 @@ body {
 .container {
     width: 50%;
     margin: auto;
-    background-color: #008080; /* Teal container */
+    background-color: #008080; 
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    color: #ffffff; /* White text for better contrast */
+    color: #ffffff; 
 }
 
 h1, h2 {
     text-align: center;
-    color: #ffffff; /* White header text */
+    color: #ffffff; 
 }
 
 form {
@@ -25,44 +25,43 @@ form {
 }
 
 fieldset {
-    border: 2px solid #006666; /* Darker teal for fieldset borders */
+    border: 2px solid #006666; 
     padding: 15px 20px;
     margin-bottom: 20px;
-    background-color: #b2dfdb; /* Light teal background for sections */
+    background-color: #b2dfdb; 
     border-radius: 8px;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
 }
 
 .section-title {
     padding: 5px 10px;
-    border: 1px solid #006666; /* Darker teal border */
+    border: 1px solid #006666; 
     border-radius: 5px;
-    background-color: #80cbc4; /* Medium teal */
+    background-color: #80cbc4; 
     display: inline-block;
     font-weight: bold;
-    color: #004d4d; /* Dark teal text */
+    color: #004d4d; 
     margin-bottom: 10px;
 }
 
 legend {
     font-weight: bold;
-    color: #004d4d; /* Dark teal */
+    color: #004d4d; 
 }
 
 label {
     display: block;
     margin-bottom: 8px;
-    color: #004d4d; /* Dark teal text */
-}
+    color: #004d4d; 
 
 input[type="text"], input[type="email"], input[type="password"], select, textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #008080; /* Teal border */
+    border: 1px solid #008080; 
     border-radius: 5px;
-    background-color: #ffffff; /* White input background */
-    color: #004d4d; /* Dark teal text */
+    background-color: #ffffff; 
+    color: #004d4d; 
 }
 
 textarea {
@@ -80,13 +79,13 @@ input[type="checkbox"], input[type="radio"] {
 
 input[type="submit"], input[type="reset"] {
     padding: 10px 20px;
-    background-color: #004d4d; /* Dark teal */
-    color: #ffffff; /* White text */
+    background-color: #004d4d; 
+    color: #ffffff; 
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 input[type="submit"]:hover, input[type="reset"]:hover {
-    background-color: #006666; /* Slightly lighter teal on hover */
+    background-color: #006666; 
 }
